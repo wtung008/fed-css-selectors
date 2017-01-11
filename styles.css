@@ -53,3 +53,11 @@ ul.class-list{
 #advanced-selectors p a:hover{
   text-decoration: none;
 }
+
+#advanced-selectors ul a:hover{
+  background-color: yellow;
+}
+
+#advanced-selectors ul a:active{
+  background-color: red;
+}
