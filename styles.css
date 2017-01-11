@@ -46,10 +46,10 @@ ul.class-list{
   background-color: grey;
 }
 
-#advanced-selectors ol:nth-child(2n+1){
+#advanced-selectors li:nth-child(2n+1) p{
   background-color: green;
 }
 
-a.Bitmaker:hover {
-  text-decoration-line: none;
+#advanced-selectors p a:hover{
+  text-decoration: none;
 }
